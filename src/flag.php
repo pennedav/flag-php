@@ -149,7 +149,7 @@ class Flag {
     /** @var list<string> */
     private array $known_options = [];
 
-    private ?string $program_name = null;
+    public private(set) ?string $program_name = null;
 
     public function __construct() {
     }
