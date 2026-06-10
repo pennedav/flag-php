@@ -1,4 +1,8 @@
 {
+    "name": "pennedav/flag-php",
+    "description": "A simple command-line option parser.",
+    "license": "MIT",
+    "version": "0.1.0",
     "require-dev": {
         "phpstan/phpstan": "^2.1"
     }
